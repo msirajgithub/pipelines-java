@@ -48,15 +48,5 @@
     <maven.compiler.target>1.8</maven.compiler.target>
   </properties>
 	
-<repository>
-  <id>test</id>
-  <url>https://pkgs.dev.azure.com/test0243/Profile/_packaging/test/maven/v1</url>
-  <releases>
-    <enabled>true</enabled>
-  </releases>
-  <snapshots>
-    <enabled>true</enabled>
-  </snapshots>
-</repository>
 	
 </project>
